@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\WindowsFormsAppExpenseTracking\WindowsFormsAppExpenseTracking\bin\Debug\WindowsFormsAppExpenseTracking.exe.config
+C:\Users\user\source\repos\WindowsFormsAppExpenseTracking\WindowsFormsAppExpenseTracking\bin\Debug\WindowsFormsAppExpenseTracking.exe
+C:\Users\user\source\repos\WindowsFormsAppExpenseTracking\WindowsFormsAppExpenseTracking\bin\Debug\WindowsFormsAppExpenseTracking.pdb
+C:\Users\user\source\repos\WindowsFormsAppExpenseTracking\WindowsFormsAppExpenseTracking\obj\Debug\WindowsFormsAppExpenseTracking.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsAppExpenseTracking\WindowsFormsAppExpenseTracking\obj\Debug\WindowsFormsAppExpenseTracking.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsFormsAppExpenseTracking\WindowsFormsAppExpenseTracking\obj\Debug\WindowsFormsAppExpenseTracking.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsAppExpenseTracking\WindowsFormsAppExpenseTracking\obj\Debug\WindowsFormsAppExpenseTracking.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsFormsAppExpenseTracking\WindowsFormsAppExpenseTracking\obj\Debug\WindowsFormsAppExpenseTracking.exe
+C:\Users\user\source\repos\WindowsFormsAppExpenseTracking\WindowsFormsAppExpenseTracking\obj\Debug\WindowsFormsAppExpenseTracking.pdb
+C:\Users\user\source\repos\WindowsFormsAppExpenseTracking\WindowsFormsAppExpenseTracking\obj\Debug\WindowsFormsAppExpenseTracking.ExpenseList.resources
+C:\Users\user\source\repos\WindowsFormsAppExpenseTracking\WindowsFormsAppExpenseTracking\obj\Debug\WindowsFormsAppExpenseTracking.frmmain.resources

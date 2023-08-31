@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ConsoleAppQuadraticCalculator\ConsoleAppQuadraticCalculator\bin\Debug\ConsoleAppQuadraticCalculator.exe.config
+C:\Users\user\source\repos\ConsoleAppQuadraticCalculator\ConsoleAppQuadraticCalculator\bin\Debug\ConsoleAppQuadraticCalculator.exe
+C:\Users\user\source\repos\ConsoleAppQuadraticCalculator\ConsoleAppQuadraticCalculator\bin\Debug\ConsoleAppQuadraticCalculator.pdb
+C:\Users\user\source\repos\ConsoleAppQuadraticCalculator\ConsoleAppQuadraticCalculator\obj\Debug\ConsoleAppQuadraticCalculator.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleAppQuadraticCalculator\ConsoleAppQuadraticCalculator\obj\Debug\ConsoleAppQuadraticCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleAppQuadraticCalculator\ConsoleAppQuadraticCalculator\obj\Debug\ConsoleAppQuadraticCalculator.exe
+C:\Users\user\source\repos\ConsoleAppQuadraticCalculator\ConsoleAppQuadraticCalculator\obj\Debug\ConsoleAppQuadraticCalculator.pdb

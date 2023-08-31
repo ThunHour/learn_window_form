@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ConsoleApprecursiveFunction\ConsoleApprecursiveFunction\bin\Debug\ConsoleApprecursiveFunction.exe.config
+C:\Users\user\source\repos\ConsoleApprecursiveFunction\ConsoleApprecursiveFunction\bin\Debug\ConsoleApprecursiveFunction.exe
+C:\Users\user\source\repos\ConsoleApprecursiveFunction\ConsoleApprecursiveFunction\bin\Debug\ConsoleApprecursiveFunction.pdb
+C:\Users\user\source\repos\ConsoleApprecursiveFunction\ConsoleApprecursiveFunction\obj\Debug\ConsoleApprecursiveFunction.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApprecursiveFunction\ConsoleApprecursiveFunction\obj\Debug\ConsoleApprecursiveFunction.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApprecursiveFunction\ConsoleApprecursiveFunction\obj\Debug\ConsoleApprecursiveFunction.exe
+C:\Users\user\source\repos\ConsoleApprecursiveFunction\ConsoleApprecursiveFunction\obj\Debug\ConsoleApprecursiveFunction.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ConsoleAppLuckyNumberGuess\ConsoleAppLuckyNumberGuess\bin\Debug\ConsoleAppLuckyNumberGuess.exe.config
+C:\Users\user\source\repos\ConsoleAppLuckyNumberGuess\ConsoleAppLuckyNumberGuess\bin\Debug\ConsoleAppLuckyNumberGuess.exe
+C:\Users\user\source\repos\ConsoleAppLuckyNumberGuess\ConsoleAppLuckyNumberGuess\bin\Debug\ConsoleAppLuckyNumberGuess.pdb
+C:\Users\user\source\repos\ConsoleAppLuckyNumberGuess\ConsoleAppLuckyNumberGuess\obj\Debug\ConsoleAppLuckyNumberGuess.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleAppLuckyNumberGuess\ConsoleAppLuckyNumberGuess\obj\Debug\ConsoleAppLuckyNumberGuess.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleAppLuckyNumberGuess\ConsoleAppLuckyNumberGuess\obj\Debug\ConsoleAppLuckyNumberGuess.exe
+C:\Users\user\source\repos\ConsoleAppLuckyNumberGuess\ConsoleAppLuckyNumberGuess\obj\Debug\ConsoleAppLuckyNumberGuess.pdb

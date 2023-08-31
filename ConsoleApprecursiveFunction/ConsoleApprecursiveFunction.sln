@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApprecursiveFunction", "ConsoleApprecursiveFunction\ConsoleApprecursiveFunction.csproj", "{89D23B06-9E3C-430E-B0A5-F1BFECA111E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89D23B06-9E3C-430E-B0A5-F1BFECA111E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D23B06-9E3C-430E-B0A5-F1BFECA111E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D23B06-9E3C-430E-B0A5-F1BFECA111E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D23B06-9E3C-430E-B0A5-F1BFECA111E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {857DBE99-6DE2-470B-BD09-3E0449E0ACB0}
+	EndGlobalSection
+EndGlobal

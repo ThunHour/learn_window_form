@@ -1,0 +1,8 @@
+D:\PycharmProjects\TUX\module_1\ConsoleAppCollection\ConsoleAppCollection\bin\Debug\ConsoleAppCollection.exe.config
+D:\PycharmProjects\TUX\module_1\ConsoleAppCollection\ConsoleAppCollection\bin\Debug\ConsoleAppCollection.exe
+D:\PycharmProjects\TUX\module_1\ConsoleAppCollection\ConsoleAppCollection\bin\Debug\ConsoleAppCollection.pdb
+D:\PycharmProjects\TUX\module_1\ConsoleAppCollection\ConsoleAppCollection\obj\Debug\ConsoleAppCollection.csproj.AssemblyReference.cache
+D:\PycharmProjects\TUX\module_1\ConsoleAppCollection\ConsoleAppCollection\obj\Debug\ConsoleAppCollection.csproj.SuggestedBindingRedirects.cache
+D:\PycharmProjects\TUX\module_1\ConsoleAppCollection\ConsoleAppCollection\obj\Debug\ConsoleAppCollection.csproj.CoreCompileInputs.cache
+D:\PycharmProjects\TUX\module_1\ConsoleAppCollection\ConsoleAppCollection\obj\Debug\ConsoleAppCollection.exe
+D:\PycharmProjects\TUX\module_1\ConsoleAppCollection\ConsoleAppCollection\obj\Debug\ConsoleAppCollection.pdb

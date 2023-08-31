@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ConsoleAppCalculateN!\ConsoleAppCalculateN!\obj\Debug\ConsoleAppCalculateN!.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleAppCalculateN!\ConsoleAppCalculateN!\obj\Debug\ConsoleAppCalculateN!.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleAppCalculateN!\ConsoleAppCalculateN!\bin\Debug\ConsoleAppCalculateN!.exe.config
+C:\Users\user\source\repos\ConsoleAppCalculateN!\ConsoleAppCalculateN!\bin\Debug\ConsoleAppCalculateN!.exe
+C:\Users\user\source\repos\ConsoleAppCalculateN!\ConsoleAppCalculateN!\bin\Debug\ConsoleAppCalculateN!.pdb
+C:\Users\user\source\repos\ConsoleAppCalculateN!\ConsoleAppCalculateN!\obj\Debug\ConsoleAppCalculateN!.exe
+C:\Users\user\source\repos\ConsoleAppCalculateN!\ConsoleAppCalculateN!\obj\Debug\ConsoleAppCalculateN!.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ConsoleAppCalculateAreaTriangle\ConsoleAppCalculateAreaTriangle\bin\Debug\ConsoleAppCalculateAreaTriangle.exe.config
+C:\Users\user\source\repos\ConsoleAppCalculateAreaTriangle\ConsoleAppCalculateAreaTriangle\bin\Debug\ConsoleAppCalculateAreaTriangle.exe
+C:\Users\user\source\repos\ConsoleAppCalculateAreaTriangle\ConsoleAppCalculateAreaTriangle\bin\Debug\ConsoleAppCalculateAreaTriangle.pdb
+C:\Users\user\source\repos\ConsoleAppCalculateAreaTriangle\ConsoleAppCalculateAreaTriangle\obj\Debug\ConsoleAppCalculateAreaTriangle.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleAppCalculateAreaTriangle\ConsoleAppCalculateAreaTriangle\obj\Debug\ConsoleAppCalculateAreaTriangle.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleAppCalculateAreaTriangle\ConsoleAppCalculateAreaTriangle\obj\Debug\ConsoleAppCalculateAreaTriangle.exe
+C:\Users\user\source\repos\ConsoleAppCalculateAreaTriangle\ConsoleAppCalculateAreaTriangle\obj\Debug\ConsoleAppCalculateAreaTriangle.pdb

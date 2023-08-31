@@ -1,0 +1,8 @@
+D:\PycharmProjects\TUX\module_1\ConsoleAppInterface\ConsoleAppInterface\bin\Debug\ConsoleAppInterface.exe.config
+D:\PycharmProjects\TUX\module_1\ConsoleAppInterface\ConsoleAppInterface\bin\Debug\ConsoleAppInterface.exe
+D:\PycharmProjects\TUX\module_1\ConsoleAppInterface\ConsoleAppInterface\bin\Debug\ConsoleAppInterface.pdb
+D:\PycharmProjects\TUX\module_1\ConsoleAppInterface\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.csproj.AssemblyReference.cache
+D:\PycharmProjects\TUX\module_1\ConsoleAppInterface\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.csproj.SuggestedBindingRedirects.cache
+D:\PycharmProjects\TUX\module_1\ConsoleAppInterface\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.csproj.CoreCompileInputs.cache
+D:\PycharmProjects\TUX\module_1\ConsoleAppInterface\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.exe
+D:\PycharmProjects\TUX\module_1\ConsoleAppInterface\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.pdb
